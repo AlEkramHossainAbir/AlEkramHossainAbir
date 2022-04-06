@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abir</h1>
-<h3 align="center">I'm a passionate Odoo Developer from Bangladesh.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Ekram Hossain Abir</h1>
+<h3 align="center">I'm a passionate Web Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -77,7 +77,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/AlEkramHossainAbir/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AlEkramHossainAbir">
 </a>
 <a href="https://github.com/AlEkramHossainAbir?tab=followers"><img src="https://img.shields.io/github/followers/AlEkramHossainAbir?label=Followers&style=social" alt="GitHub Badge"></a>
