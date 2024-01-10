@@ -3,15 +3,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Ekram Hossain Abir</h1>
 <h3 align="center">I'm a passionate Web Developer from Bangladesh.</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Odoo](Unisoft)**
+- 🔭 I’m currently working on **[Javascript, React](XpeedStudio)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-<!-- 
+<!--
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **alabir65@gmail.com**
@@ -57,26 +56,30 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-<a href="https://github.com/AlEkramHossainAbir/github-readme-activity-graph"><img alt="Al Ekram Hossain Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlEkramHossainAbir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AlEkramHossainAbir/github-readme-activity-graph">
+<img alt="Al Ekram Hossain Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlEkramHossainAbir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+
 <a href = "https://www.linkedin.com/in/al-ekram-hossain-abir-098b41159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/alekramhossainabir/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/AlEkramHossainAbir/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AlEkramHossainAbir">
 </a>
