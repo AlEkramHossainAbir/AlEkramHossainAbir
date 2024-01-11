@@ -60,7 +60,7 @@
 <br/>
 
 <a href="https://github.com/AlEkramHossainAbir/github-readme-activity-graph">
-<img alt="Al Ekram Hossain Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlEkramHossainAbir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Al Ekram Hossain Abir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alekramhossainabir&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true" /></a>
 
 <br/>
 <br/>
