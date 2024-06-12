@@ -43,23 +43,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/AlEkramHossainAbir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Al Ekram Hossain Abir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlEkramHossainAbir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=AlEkramHossainAbir&theme=nightowl">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Al Ekram Hossain Abir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlEkramHossainAbir&theme=nightowl"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AlEkramHossainAbir/github-readme-stats"><img alt="Al Ekram Hossain Abir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlEkramHossainAbir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AlEkramHossainAbir/github-readme-stats"><img alt="Al Ekram Hossain Abir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlEkramHossainAbir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=AlEkramHossainAbir&show_icons=true&theme=tokyonight"><img alt="Al Ekram Hossain Abir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlEkramHossainAbir&show_icons=true&theme=tokyonight" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlEkramHossainAbir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Al Ekram Hossain Abir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlEkramHossainAbir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/AlEkramHossainAbir/github-readme-activity-graph">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=alekramhossainabir&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true">
 <img alt="Al Ekram Hossain Abir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alekramhossainabir&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true" /></a>
 
 <br/>
