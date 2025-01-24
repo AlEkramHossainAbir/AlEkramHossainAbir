@@ -57,7 +57,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?AlEkramHossainAbir" frameborder="0"></iframe>
+  <img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?AlEkramHossainAbir"></img>
   
 
 <br/>
