@@ -85,7 +85,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/AlEkramHossainAbir/github-profile-views-counter">
+<a href="https://komarev.com/ghpvc/?username=AlEkramHossainAbir">
     <img src="https://komarev.com/ghpvc/?username=AlEkramHossainAbir">
 </a>
 <a href="https://github.com/AlEkramHossainAbir?tab=followers"><img src="https://img.shields.io/github/followers/AlEkramHossainAbir?label=Followers&style=social" alt="GitHub Badge"></a>
